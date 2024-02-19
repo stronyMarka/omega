@@ -76,7 +76,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <p > Made by </p> <a className={styles.footerlink} href="www.linkedin.com/in/marek-kalus-61a240247">Marek Kalus</a>
+        <p > Made by </p> <a className={styles.footerlink} href="tel:+48667226967">Marek Kalus</a>
       </footer>
 
       <style jsx>{`
