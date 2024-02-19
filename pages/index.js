@@ -5,17 +5,17 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>OMEGA</title>
+        <title>ALFA</title>
         <link rel="icon" href="/truck.svg" />
       </Head>
 
       <main>
         <h1 className={styles.title}>
-          OMEGA
+          ALFA
         </h1>
 
         <p className={styles.description}>
-          Witamy w OMEGA - Twoim Partnerze w Transporcie, Przeprowadzkach i Remontach!
+          Witamy w ALFA - Twoim Partnerze w Transporcie, Przeprowadzkach i Remontach!
         </p>
         <p className={styles.description}>
           Jesteśmy doświadczoną firmą świadczącą kompleksowe usługi transportowe do 3,5 tony, profesjonalne przeprowadzki oraz prace remontowo-budowlane. Wspieramy Cię w każdym etapie - od transportu, przez przeprowadzkę, aż po przemianę Twojego domu.
