@@ -9,6 +9,7 @@
   background-color: #2d1bbf;
   color: #ffffff;
 }
+
 .link {
   color: #fff;
   text-decoration: none;
@@ -81,6 +82,10 @@
   height: 1em;
 }
 
+.footer {
+  color: #0256b6;
+  margin: 0;
+}
 @media (max-width: 600px) {
   .grid {
     width: 100%;
