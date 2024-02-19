@@ -65,7 +65,7 @@ export default function Home() {
           </div>
         </div>
 
-
+        <p className={styles.description}> Skontaktuj się z nami już dziś i przekonaj się, jak możemy ułatwić Ci życie! <a className={styles.link} href="tel:+48724041984">724 041 984</a></p>
 
 
 
@@ -76,7 +76,7 @@ export default function Home() {
       </main>
 
       <footer>
-        <p> Skontaktuj się z nami już dziś i przekonaj się, jak możemy ułatwić Ci życie! 724041984</p>
+
       </footer>
 
       <style jsx>{`
