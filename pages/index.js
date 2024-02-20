@@ -43,6 +43,13 @@ export default function Home() {
               Potrzebujesz wykonać prace ziemne? Nasza minikoparka jest do Twojej dyspozycji. Skutecznie i precyzyjnie wykonamy wszelkie prace koparką.
             </p>
           </div>
+
+          <div className={styles.card}>
+            <h3>Koszenie terenów zelionych: &rarr;</h3>
+            <p>
+              Cześć! Zbliża się sezon, a Twoje trawniki rosną jak szalone? Nie martw się! Jesteśmy tutaj, aby Ci pomóc w utrzymaniu Twojego ogrodu w doskonałej formie.
+            </p>
+          </div>
         </div>
         <div className={styles.description}>
           <h2>Dlaczego My?</h2>
