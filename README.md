@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Strona firmy ALFA Piotr Wlazło MIasteczko Śląskie ul. Srebrna 10a/6
