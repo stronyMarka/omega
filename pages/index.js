@@ -45,7 +45,7 @@ export default function Home() {
           </div>
 
           <div className={styles.card}>
-            <h3>Koszenie terenów zelionych: &rarr;</h3>
+            <h3>Koszenie terenów zielonych: &rarr;</h3>
             <p>
               Cześć! Zbliża się sezon, a Twoje trawniki rosną jak szalone? Nie martw się! Jesteśmy tutaj, aby Ci pomóc w utrzymaniu Twojego ogrodu w doskonałej formie.
             </p>
